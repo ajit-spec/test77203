@@ -2,3 +2,12 @@ Oranges are citrus fruits known for their bright color and refreshing, sweet-tar
 They originated in Southeast Asia and have been cultivated for thousands of years.
 Oranges are cultivated in many regions with warm climates, including Brazil, the United States (especially Florida and California), Spain, and China. They grow on evergreen trees and can be categorized into different varieties such as navel, Valencia, and blood oranges.
 Nutritionally, oranges are low in calories but high in nutrients. A single medium orange provides about 70 calories and contains fiber, potassium, and various essential vitamins. They are particularly beneficial for immune health, skin care, and can help improve heart health.
+Sure, here are a few more lines to add to your `orange.txt` file:
+
+In addition to being enjoyed fresh, oranges are also used in a variety of culinary dishes. The zest and juice add a bright flavor to baked goods, sauces, and marinades. Marmalades and preserves made from oranges are popular spreads for bread and pastries.
+
+The orange tree's fragrant blossoms are not only pleasing to the senses but also play a role in perfumery and aromatherapy. Orange blossom water, derived from these flowers, is a common ingredient in Middle Eastern and Mediterranean cuisines, often used in desserts and beverages.
+
+Culturally, oranges hold significant symbolism in various parts of the world. In Chinese tradition, they represent good fortune and are exchanged during Lunar New Year celebrations. The giving of oranges is believed to bring happiness and prosperity.
+
+Environmental benefits of orange cultivation include the absorption of carbon dioxide by the trees, contributing to cleaner air. Additionally, the byproducts of oranges, such as peels and pulp, can be repurposed as natural cleaning agents or composted to enrich soil.
